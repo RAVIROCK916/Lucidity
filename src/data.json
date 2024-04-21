@@ -1,0 +1,44 @@
+{
+	"products": [
+		{
+      "id": 1,
+			"Name": "Bluetooth Headset",
+			"Category": "Electronic",
+			"Price": 5,
+			"Quantity": 5,
+			"Value": 25
+		},
+		{
+      "id": 2,
+			"Name": "Edifier M34560",
+			"Category": "Electronic",
+			"Price": 5,
+			"Quantity": 0,
+			"Value": 0
+		},
+		{
+      "id": 3,
+			"Name": "Sony 4K 55 inch ultra TV",
+			"Category": "Electronic",
+			"Price": 50,
+			"Quantity": 17,
+			"Value": 850
+		},
+		{
+      "id": 4,
+			"Name": "Samsung 55 inch TV",
+			"Category": "Electronic",
+			"Price": 500,
+			"Quantity": 50,
+			"Value": 25000
+		},
+		{
+      "id": 5,
+			"Name": "Samsung S24 Ultra",
+			"Category": "Phone",
+			"Price": 50,
+			"Quantity": 0,
+			"Value": 0
+		}
+	]
+}

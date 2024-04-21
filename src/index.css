@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+body {
+	@apply font-main min-h-screen;
+  font-family: "JetBrains Mono", monospace;
+}
+
+@layer base {
+  h1 {
+    @apply text-4xl font-bold
+  }
+}
